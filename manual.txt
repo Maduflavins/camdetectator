@@ -1,0 +1,1 @@
+To exit the camera press q and the graph will appear on your default browser
